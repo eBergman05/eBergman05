@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eBergman05
-- Current high school senior at OCS
-- Primary languages are Java and C
+- Current college freshman at Cal Poly SLO majoring in Aerospace Engineering
+- Primary language is C++, I mostly work with arduino
 - email: falconray05@gmail.com
 
 <!---
